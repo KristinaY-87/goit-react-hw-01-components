@@ -1,0 +1,29 @@
+.statistics {
+  padding: 10px;
+  width: 600px;
+}
+
+.statList {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -20px;
+  justify-content: center;
+  padding-left: 0;
+}
+
+.item {
+  margin: 20px;
+}
+
+.title {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.label {
+  font-size: 12px;
+}
+
+.percentage {
+  display: flex;
+}
